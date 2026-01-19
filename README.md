@@ -57,7 +57,7 @@ chmod +x FOX TFOX
 পরের বার শুধু নিচের command দিলেই হবে:
 
 ```bash
-cd FOX-tool
+cd FOX-Tool
 ./TFOX
 ```
 
