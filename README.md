@@ -26,6 +26,10 @@ pkg update && pkg upgrade -y
 ```
 
 ```bash
+pkg install libffi openssl clang make python -y
+```
+
+```bash
 pkg install git -y
 ```
 
