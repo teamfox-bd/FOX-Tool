@@ -34,7 +34,7 @@ git clone https://github.com/teamfox-bd/FOX-Tool.git
 ```
 
 ```bash
-cd FOX-tool
+cd FOX-Tool
 ```
 
 ```bash
