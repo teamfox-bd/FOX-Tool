@@ -34,7 +34,6 @@ pkg install git -y
 ```
 
 ```bash
-cd ~/storage/shared
 git clone https://github.com/teamfox-bd/FOX-Tool.git
 ```
 
